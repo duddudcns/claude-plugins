@@ -5,6 +5,7 @@
   "plugins": [
     { "name": "usage-band", "source": { "source": "url", "url": "https://github.com/duddudcns/usage-band.git" }, "description": "입력창 위에 구독 사용량과 ctx%를 한 줄로 실시간 표시" },
     { "name": "fast-jev-compaction", "source": { "source": "url", "url": "https://github.com/duddudcns/local-jev-compaction.git" }, "description": "Verbatim Jev-guided compaction for Claude Code sessions." },
-    { "name": "llm-wiki", "source": { "source": "git-subdir", "url": "https://github.com/duddudcns/llm-wiki-cli.git", "path": "plugin" }, "description": "llmw CLI 위키 사용법을 알려주는 스킬" }
+    { "name": "llm-wiki", "source": { "source": "git-subdir", "url": "https://github.com/duddudcns/llm-wiki-cli.git", "path": "plugin" }, "description": "llmw CLI 위키 사용법을 알려주는 스킬" },
+    { "name": "anti-slop", "source": { "source": "git-subdir", "url": "https://github.com/duddudcns/anti-slop.git", "path": "anti-slop" }, "description": "AI 슬롭 탐지 스캐너 (TheMizeGuy/anti-slop 포크, VB.NET 지원 추가)" }
   ]
 }
