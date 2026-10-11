@@ -40,12 +40,12 @@
       "description": "AI 슬롭 탐지 스캐너 (TheMizeGuy/anti-slop 포크, VB.NET 지원 추가)"
     },
     {
-      "name": "haiku-delegate",
+      "name": "subagents",
       "source": {
         "source": "url",
-        "url": "https://github.com/duddudcns/haiku-delegate.git"
+        "url": "https://github.com/duddudcns/subagents.git"
       },
-      "description": "판단은 메인, 기계적 읽기·수정·명령 실행·웹 조사는 Haiku 서브에이전트 4종에 위임"
+      "description": "토큰 많이 쓰는 기계적 작업(읽기·수정·명령 실행·웹·브라우저)을 저렴한 서브에이전트에 위임, 판단은 메인"
     }
   ]
 }
