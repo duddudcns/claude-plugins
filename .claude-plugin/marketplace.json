@@ -46,6 +46,14 @@
         "url": "https://github.com/duddudcns/subagents.git"
       },
       "description": "토큰 많이 쓰는 기계적 작업(읽기·수정·명령 실행·웹·브라우저)을 저렴한 서브에이전트에 위임, 판단은 메인"
+    },
+    {
+      "name": "vbq",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/duddudcns/vbq.git"
+      },
+      "description": "VB.NET 시맨틱 코드 질의 CLI(vbnet-ls 솔루션별 데몬) + 스킬 + .vb 대상 grep/Read 때 vbq 권장 훅"
     }
   ]
 }
