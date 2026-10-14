@@ -1,0 +1,50 @@
+{
+  "name": "duddudcns",
+  "description": "Shared personal plugin marketplace for Claude and Codex.",
+  "interface": {
+    "displayName": "duddudcns Plugins"
+  },
+  "plugins": [
+    {
+      "name": "llm-wiki",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/duddudcns/llm-wiki-cli.git",
+        "path": "./plugins/llm-wiki",
+        "ref": "master"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "anti-slop",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/duddudcns/anti-slop.git",
+        "path": "./anti-slop",
+        "ref": "master"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "vbq",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/duddudcns/vbq.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
