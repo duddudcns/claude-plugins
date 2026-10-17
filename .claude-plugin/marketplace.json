@@ -54,6 +54,14 @@
         "url": "https://github.com/duddudcns/vbq.git"
       },
       "description": "VB.NET 시맨틱 코드 질의 CLI(vbnet-ls 솔루션별 데몬) + 스킬 + .vb 대상 grep/Read 때 vbq 권장 훅"
+    },
+    {
+      "name": "subagent-pane",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/duddudcns/subagent-pane.git"
+      },
+      "description": "사이드 패널에 서브에이전트를 실시간 표시 (상태·현재 도구·토큰·경과 시간, 대화 보기, 중지)"
     }
   ]
 }
