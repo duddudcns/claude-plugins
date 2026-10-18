@@ -70,6 +70,14 @@
         "url": "https://github.com/duddudcns/prompt-mark.git"
       },
       "description": "내가 쓴 메시지를 왼쪽 색 막대·강조색 굵은 글씨·회색 배경으로 구분, 대기 중 메시지는 흐리게"
+    },
+    {
+      "name": "codex",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/duddudcns/codex.git"
+      },
+      "description": "Codex CLI를 샌드박스 없이(--yolo) 백그라운드 실행, 로그로 진행 상황 확인"
     }
   ]
 }
