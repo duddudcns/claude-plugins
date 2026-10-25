@@ -1,6 +1,6 @@
 # claude-plugins
 
-duddudcns의 개인용 Claude Code 및 Codex 플러그인 마켓플레이스입니다. 코드는 각 플러그인 레포에 있고 이 저장소에는 카탈로그만 둡니다.
+duddudcns의 Claude Code 및 Codex 플러그인 마켓플레이스입니다. 코드는 각 플러그인 레포에 있고 이 저장소에는 카탈로그만 둡니다.
 
 ## Claude Code
 
