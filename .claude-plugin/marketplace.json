@@ -78,6 +78,15 @@
         "url": "https://github.com/duddudcns/codex-yolo.git"
       },
       "description": "Codex CLI를 샌드박스 없이(--yolo) 백그라운드 실행, 로그로 진행 상황 확인"
+    },
+    {
+      "name": "attention-span",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/duddudcns/attention-span.git",
+        "path": "plugins/attention-span"
+      },
+      "description": "ADHD 친화 출력 스타일, 핵심부터 짧게 (alexgreensh/attention-span 포크, AGPL-3.0)"
     }
   ]
 }
