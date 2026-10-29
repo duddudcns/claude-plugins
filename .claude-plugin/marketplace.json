@@ -87,6 +87,14 @@
         "url": "https://github.com/duddudcns/korean-reply-guard.git"
       },
       "description": "마지막 답이 한국어가 아니면 Stop 에서 막고 다시 쓰게 한다"
+    },
+    {
+      "name": "git-guard",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/duddudcns/git-guard.git"
+      },
+      "description": "Private: blocks personal data in pushes to public repos (needs gh access to the private repo)"
     }
   ]
 }
