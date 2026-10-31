@@ -61,7 +61,7 @@
         "source": "url",
         "url": "https://github.com/duddudcns/prompt-mark.git"
       },
-      "description": "내가 쓴 메시지를 왼쪽 색 막대·강조색 굵은 글씨·회색 배경으로 구분, 대기 중 메시지는 흐리게"
+      "description": "내 메시지 강조(색 막대·강조색) + PNG 이미지를 대화창에 바로 표시(붙여넣기·Read·show_image, Windows 지원)"
     },
     {
       "name": "codex-yolo",
@@ -95,14 +95,6 @@
         "url": "https://github.com/duddudcns/git-guard.git"
       },
       "description": "Private: blocks personal data in pushes to public repos (needs gh access to the private repo)"
-    },
-    {
-      "name": "inline-image",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/duddudcns/inline-image.git"
-      },
-      "description": "PNG 이미지를 대화창에 바로 표시 (show_image 도구·Read 결과·붙여넣은 이미지), 셸 없이 Windows 지원"
     }
   ]
 }
