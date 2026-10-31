@@ -95,6 +95,14 @@
         "url": "https://github.com/duddudcns/git-guard.git"
       },
       "description": "Private: blocks personal data in pushes to public repos (needs gh access to the private repo)"
+    },
+    {
+      "name": "inline-image",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/duddudcns/inline-image.git"
+      },
+      "description": "PNG 이미지를 대화창에 바로 표시 (show_image 도구·Read 결과·붙여넣은 이미지), 셸 없이 Windows 지원"
     }
   ]
 }
