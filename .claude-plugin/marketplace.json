@@ -95,6 +95,14 @@
         "url": "https://github.com/duddudcns/git-guard.git"
       },
       "description": "Private: blocks personal data in pushes to public repos (needs gh access to the private repo)"
+    },
+    {
+      "name": "xlsx-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/duddudcns/xlsx-skill.git"
+      },
+      "description": "엑셀 스킬 + 숨김 Excel COM 헬퍼 + 헬퍼 밖 엑셀 직접 조작 차단 훅"
     }
   ]
 }
