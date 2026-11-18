@@ -103,6 +103,15 @@
         "url": "https://github.com/duddudcns/xlsx-skill.git"
       },
       "description": "엑셀 스킬 + 숨김 Excel COM 헬퍼 + 헬퍼 밖 엑셀 직접 조작 차단 훅"
+    },
+    {
+      "name": "kordoc",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/duddudcns/kordoc.git",
+        "path": "plugins/kordoc"
+      },
+      "description": "한국 공문서 툴킷: HWP·HWPX·PDF 읽기, HWPX 공문서 생성·서식 채우기 (chrisryugj/kordoc 비공개 사본, MIT)"
     }
   ]
 }
